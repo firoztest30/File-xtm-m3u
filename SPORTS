@@ -8,3 +8,5 @@ http://alnatrala.com:80/live/ionut%40ionescu/e7jACyBD3T/8.ts
 http://alnatrala.com:80/live/ionut%40ionescu/e7jACyBD3T/9.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",ENTENA SD
 http://alnatrala.com:80/live/ionut%40ionescu/e7jACyBD3T/10.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",FOX SPORT
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
